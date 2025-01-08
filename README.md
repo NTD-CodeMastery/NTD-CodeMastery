@@ -48,9 +48,9 @@ Here are the tools and technologies I use to bring ideas to life:
 
 ## 📈 GitHub Stats
 
-[![Thanh Dat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NTD-CodeMastery&count_private=true&show_icons=true&theme=ambient_gradient)](https://github.com/NTD-CodeMastery)
+[![Thanh Dat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NTD-CodeMastery&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/NTD-CodeMastery)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NTD-CodeMastery&layout=compact&theme=ambient_gradient)](https://github.com/NTD-CodeMastery)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NTD-CodeMastery&layout=compact&theme=tokyonight)](https://github.com/NTD-CodeMastery)
 
 ---
 
