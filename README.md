@@ -70,8 +70,6 @@ Here are the tools and technologies I use to bring ideas to life:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NTD-CodeMastery&repo=technical_education&theme=ambient_gradient" />
 </a>
 
-🔗 [Visit the TechNical Project](https://github.com/NTD-CodeMastery/technical_education)
-
 ---
 
 ## 🌟 Let's Connect
