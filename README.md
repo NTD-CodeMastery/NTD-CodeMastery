@@ -54,32 +54,25 @@ Here are the tools and technologies I use to bring ideas to life:
 
 ---
 
-## 🌟 Featured Projects
+## 🌟 Featured Project: TechNical
 
 ### [TechNical - Empowering Learners](https://github.com/NTD-CodeMastery/technical_education)
 
 **TechNical** is my **startup project**, a platform built to provide high-quality, affordable programming courses for individuals passionate about coding. It combines a learning management system with community features to create an engaging and supportive environment for developers.
 
-### [MediTrack - Health Management System](https://github.com/NTD-CodeMastery/MediTrack)
+### 🚀 Features:
+1. **Comprehensive Courses**: Covers a wide range of programming topics, from frontend to backend development, tailored for different skill levels.
+2. **Interactive Learning**: Learners can interact with instructors and peers for a better understanding of concepts.
+3. **Monetization for Creators**: A platform for instructors to share knowledge and earn revenue from course sales.
+4. **Community Building**: Encourages collaboration and growth within a vibrant programming community.
 
-**MediTrack** is a web-based application designed to simplify the management of healthcare services.  
-- Tracks patient records, appointments, and medication schedules.
-- Ensures secure and reliable data handling for hospitals and clinics.
-- Built with **React.js**, **Node.js**, and **MongoDB**.
+### 🌟 Benefits:
+- **Skill Development**: Empower users to gain in-demand skills through well-structured tutorials and resources.
+- **Career Growth**: Helps learners prepare for real-world job opportunities with hands-on experience.
+- **Global Reach**: Connects learners from all over the world, fostering diversity and collaboration.
+- **Affordable Learning**: Makes high-quality programming education accessible to everyone.
 
-### [Hotel Management System](https://github.com/NTD-CodeMastery/Hotel)
-
-A fully-featured **Hotel Management System** for efficient booking and customer service.  
-- Automates room allocation and service requests.
-- Integrated payment system for seamless transactions.
-- Developed using **Next.js**, **Express.js**, and **SQL Server**.
-
-### [RabitoEnglish Platform](https://github.com/NTD-CodeMastery/web-rabitoenglish-develop)
-
-**RabitoEnglish** is an online learning platform focused on English language education.  
-- Provides interactive lessons and quizzes.
-- Built to deliver a smooth and engaging user experience.
-- Powered by **React.js**, **Node.js**, and **Tailwind CSS**.
+🔗 [Visit the TechNical Project](https://github.com/NTD-CodeMastery/technical_education)
 
 ---
 
