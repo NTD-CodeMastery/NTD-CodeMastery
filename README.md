@@ -72,6 +72,17 @@ Here are the tools and technologies I use to bring ideas to life:
 - **Global Reach**: Connects learners from all over the world, fostering diversity and collaboration.
 - **Affordable Learning**: Makes high-quality programming education accessible to everyone.
 
+<a href="https://github.com/NTD-CodeMastery/MediTrack">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NTD-CodeMastery&repo=MediTrack&theme=tokyonight" />
+</a>    
+<a href="https://github.com/NTD-CodeMastery/Hotel">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NTD-CodeMastery&repo=Hotel&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/NTD-CodeMastery/web-rabitoenglish-develop">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NTD-CodeMastery&repo=web-rabitoenglish-develop&theme=tokyonight" />
+</a>
+
 🔗 [Visit the TechNical Project](https://github.com/NTD-CodeMastery/technical_education)
 
 ---
