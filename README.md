@@ -30,3 +30,24 @@ Here are the tools and technologies I use to bring ideas to life:
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+
+## 📈 GitHub Stats
+
+[![NTD-CodeMastery's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NTD-CodeMastery&count_private=true&show_icons=true&theme=radical)](https://github.com/NTD-CodeMastery)
+
+## 📊 My Top Languages
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NTD-CodeMastery&layout=compact&theme=radical)](https://github.com/NTD-CodeMastery)
+
+---
+
+## 🌟 Featured Project
+
+### [Technical Education](https://github.com/NTD-CodeMastery/technical_education)
+A repository dedicated to **technical education resources**. Explore tutorials, guides, and code examples that empower developers to upskill and build amazing projects.
+
+🔗 [Visit the project](https://github.com/NTD-CodeMastery/technical_education)
+
+---
+
+💡 **Tip**: Always feel free to contribute or suggest improvements. Collaboration is key!
