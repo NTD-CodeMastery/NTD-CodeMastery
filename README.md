@@ -51,3 +51,17 @@ A repository dedicated to **technical education resources**. Explore tutorials, 
 ---
 
 💡 **Tip**: Always feel free to contribute or suggest improvements. Collaboration is key!
+
+## 🌟 Let's Connect
+
+- [Facebook](https://www.facebook.com/ThanhDatNext/?locale=vi_VN)
+- [YouTube](https://www.youtube.com/@Tech_Nical_FullStack)
+
+## 📈 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=NTD-CodeMastery&color=brightgreen)
+
+Thanks for stopping by! 😊✨
+
+Happy Coding! 🚀
+
