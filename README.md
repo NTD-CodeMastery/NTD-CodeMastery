@@ -58,29 +58,16 @@ Here are the tools and technologies I use to bring ideas to life:
 
 ### [TechNical - Empowering Learners](https://github.com/NTD-CodeMastery/technical_education)
 
-**TechNical** is my **startup project**, a platform built to provide high-quality, affordable programming courses for individuals passionate about coding. It combines a learning management system with community features to create an engaging and supportive environment for developers.
+**TechNical** is my **startup project**, a platform designed to provide high-quality, affordable programming courses. It aims to create an engaging and supportive learning community for developers worldwide.
 
-### 🚀 Features:
-1. **Comprehensive Courses**: Covers a wide range of programming topics, from frontend to backend development, tailored for different skill levels.
-2. **Interactive Learning**: Learners can interact with instructors and peers for a better understanding of concepts.
-3. **Monetization for Creators**: A platform for instructors to share knowledge and earn revenue from course sales.
-4. **Community Building**: Encourages collaboration and growth within a vibrant programming community.
+### 🚀 Key Features:
+- Comprehensive programming courses for all skill levels.
+- Interactive learning with community support.
+- Opportunities for instructors to monetize their knowledge.
+- Affordable and accessible education for everyone.
 
-### 🌟 Benefits:
-- **Skill Development**: Empower users to gain in-demand skills through well-structured tutorials and resources.
-- **Career Growth**: Helps learners prepare for real-world job opportunities with hands-on experience.
-- **Global Reach**: Connects learners from all over the world, fostering diversity and collaboration.
-- **Affordable Learning**: Makes high-quality programming education accessible to everyone.
-
-<a href="https://github.com/NTD-CodeMastery/MediTrack">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NTD-CodeMastery&repo=MediTrack&theme=tokyonight" />
-</a>    
-<a href="https://github.com/NTD-CodeMastery/Hotel">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NTD-CodeMastery&repo=Hotel&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/NTD-CodeMastery/web-rabitoenglish-develop">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NTD-CodeMastery&repo=web-rabitoenglish-develop&theme=tokyonight" />
+<a href="https://github.com/NTD-CodeMastery/technical_education">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NTD-CodeMastery&repo=technical_education&theme=ambient_gradient" />
 </a>
 
 🔗 [Visit the TechNical Project](https://github.com/NTD-CodeMastery/technical_education)
